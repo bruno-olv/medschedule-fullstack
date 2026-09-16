@@ -1,2 +1,2 @@
-# medschedule-fullstack
-Sistema web full-stack para agendamento e gestão de consultas médicas desenvolvido com Spring Boot, ReactJS e PostgreSQL.
+# villadocecafe-fullstack
+Sistema web full-stack para gestão e pedidos da cafeteria Villa Doce Café, desenvolvido com Spring Boot, ReactJS e PostgreSQL.
