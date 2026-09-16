@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.medschedule</groupId>
-	<artifactId>backend</artifactId>
+	<artifactId>villadocecafe-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>medschedule-backend</name>
+	<name>villadocecafe-backend</name>
 	<description/>
 	<url/>
 	<licenses>

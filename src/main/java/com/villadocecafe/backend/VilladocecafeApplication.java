@@ -1,13 +1,13 @@
-package com.medschedule.backend;
+package com.villadocecafe.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MedscheduleBackendApplication {
+public class VilladocecafeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MedscheduleBackendApplication.class, args);
+		SpringApplication.run(VilladocecafeApplication.class, args);
 	}
 
 }
